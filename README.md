@@ -2,7 +2,7 @@
 Here you can find python algotihms, which I learned: 
 <ol>
   <li>Sorting algorithms visualisation</li>
-  <li>Graphs algorithms(Breadth-First Search for this moment</li>
+  <li>Graphs algorithms(Breadth-First Search for this moment)</li>
 </ol>
 
 # Sorting algorithms visualisation
